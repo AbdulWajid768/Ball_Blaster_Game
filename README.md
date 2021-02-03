@@ -1,7 +1,7 @@
 # Ball_Blaster_Game
 
 #URL of code repository:
-https://github.com/AbdulWajid768/Vacumn_Cleaner_Agent_AI
+https://github.com/AbdulWajid768/Ball_Blaster_Game
 
 #Prgramming Language:
 Java
